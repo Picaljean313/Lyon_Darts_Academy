@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/Lyon_Darts_Academy/static/css/main.073c9b0a.css",
-    "main.js": "/Lyon_Darts_Academy/static/js/main.e2a779e7.js",
-    "static/js/787.7076e85a.chunk.js": "/Lyon_Darts_Academy/static/js/787.7076e85a.chunk.js",
-    "static/media/logo.svg": "/Lyon_Darts_Academy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Lyon_Darts_Academy/static/css/main.31d6cfe0.css",
+    "main.js": "/Lyon_Darts_Academy/static/js/main.bfab4ee8.js",
     "index.html": "/Lyon_Darts_Academy/index.html",
-    "main.073c9b0a.css.map": "/Lyon_Darts_Academy/static/css/main.073c9b0a.css.map",
-    "main.e2a779e7.js.map": "/Lyon_Darts_Academy/static/js/main.e2a779e7.js.map",
-    "787.7076e85a.chunk.js.map": "/Lyon_Darts_Academy/static/js/787.7076e85a.chunk.js.map"
+    "main.bfab4ee8.js.map": "/Lyon_Darts_Academy/static/js/main.bfab4ee8.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e2a779e7.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bfab4ee8.js"
   ]
 }
